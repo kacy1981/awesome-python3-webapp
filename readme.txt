@@ -1,3 +1,6 @@
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
 awesome-python3-webapp/  <-- 根目录
 |
 +- backup/               <-- 备份目录
